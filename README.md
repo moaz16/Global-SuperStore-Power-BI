@@ -1,13 +1,9 @@
-# Global-SuperStore-Power-BI
-This visualization project analyzes Global Super Store.
-# This project is to answer some business questions about:
+# Project Description
 
-1-In the EU, what are the countries that had continuous loss in all of its branches over the years?
+In this project, I have utilized the Global Super Store dataset and the Microsoft Power BI Visualization Tool to explore various business insights and provide recommendations based on the analysis.
 
-2-which products are causing the highest loss, what do you suggest in order to avoid the loss in future purchases?
-- Which products should the company drop?
-- Which products should the company increase it's price? 
+The report covers a specific scenario where I aim to answer important business questions. It starts by addressing the first question: identifying the European Union (EU) countries that have experienced continuous losses across all branches over the years. This analysis sheds light on regions that require special attention and potential strategies for improvement.
 
-3-The company wants to offer free shipping to a segment of customers to drive up sales in that segment
-- Which segment should it be?
-- Would it be better if the offer was specified on some product categories or shipping modes?
+Moving on to the second question, I investigate the products that are causing the highest losses and offer suggestions to avoid future losses. This involves identifying products that should be dropped from the company's offerings and those that could benefit from price increases. By optimizing the product portfolio, the company can focus on profitable items and enhance overall financial performance.
+
+Lastly, the report tackles the company's objective of driving up sales in a particular segment by offering free shipping. To determine the most suitable segment, I analyze different customer groups and their purchasing behavior. Additionally, I explore whether it would be more effective to specify the offer on certain product categories or shipping modes.
